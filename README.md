@@ -8,7 +8,7 @@ Apart from being a Tech Writer, I'm also a Scrum Padawan.
 In my free time, I try my best in writing fiction.
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klaudia-grzondziel-75269a185/)](https://www.linkedin.com/in/klaudia-grzondziel-75269a185/) <br>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klaudia-grzondziel-75269a185/)](https://www.linkedin.com/in/klaudia-grzondziel-75269a185/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klaudia.grzondziel@gmail.com)](mailto:klaudia.grzondziel@gmail.com)
 
 ## Tools & skills
