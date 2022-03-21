@@ -19,17 +19,6 @@ I use these tools on a daily basis:
 - DITA CMS 
 - Jira
 
-These are the soft skills I possess:
-
-:heavy_check_mark: passionate <br>
-:heavy_check_mark: hard-working <br>
-:heavy_check_mark: ambitious <br>
-:heavy_check_mark: quick-learning <br>
-:heavy_check_mark: creative <br>
-:heavy_check_mark: clear & communicative <br>
-:heavy_check_mark: good at both solo and teamwork <br>
-:heavy_check_mark: flexible
-
 
 ## Hobbies 
 
