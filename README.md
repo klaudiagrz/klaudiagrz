@@ -2,8 +2,7 @@
 
 Hello, I'm Klaudia and I'm the one who docs! Both at work and in my private life. <br>
 
-Professionally, I'm a documentation enthusiast experienced in writing both open-source and commercial docs, currently working as a Technical Writer at SAP and writing docs for the [Kyma project](https://kyma-project.io/).
-Apart from being a Tech Writer, I'm also a Scrum Padawan. 
+Professionally, I'm a documentation enthusiast experienced in writing both open-source and commercial docs, currently working as a Technical Writer at Travelping.
 
 In my free time, I try my best in writing fiction.
 
