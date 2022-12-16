@@ -15,7 +15,8 @@ In my free time, I try my best in writing fiction.
 I use these tools on a daily basis:
 - GitHub
 - Markdown 
-- DITA CMS 
+- DITA CMS
+- Confluence 
 - Jira
 
 
