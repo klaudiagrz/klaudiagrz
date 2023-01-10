@@ -16,6 +16,7 @@ I use these tools on a daily basis:
 - GitHub
 - Markdown 
 - DITA CMS
+- Visual Studio Code
 - Confluence 
 - Jira
 
