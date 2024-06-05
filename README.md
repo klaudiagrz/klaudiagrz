@@ -4,7 +4,7 @@ Hello, I'm Klaudia and I'm the one who docs! Both at work and in my private life
 
 Professionally, I'm a documentation enthusiast experienced in writing both open-source and commercial docs, currently working as a Technical Writer at Travelping.
 
-In my free time, I try my best in writing fiction.
+In my free time, I try my best to write fiction.
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klaudia-grzondziel-75269a185/)](https://www.linkedin.com/in/klaudia-grzondziel-75269a185/)
@@ -27,7 +27,7 @@ In my free time, I like to:
 
 :earth_asia: Travel the world <br>
 :japanese_castle: Broaden my knowledge about Asian cultures <br>
-:jp: Learn Japanese <br>
-:books: Read books (mainly fantasy, but I literally read everything I get my hands on) <br>
+:jp: Learn languages <br>
+:books: Read books (mainly fantasy, but I read everything I get my hands on) <br>
 :pencil: Write fiction stories <br>
 :art: Paint (but only painting by numbers :joy: )
