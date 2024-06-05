@@ -26,7 +26,7 @@ I use these tools on a daily basis:
 In my free time, I like to:
 
 :earth_asia: Travel the world <br>
-:japanese_castle: Broaden my knowledge about Asian cultures <br>
+🧘‍♀️ Practice yoga <br>
 :jp: Learn languages <br>
 :books: Read books (mainly fantasy, but I read everything I get my hands on) <br>
 :pencil: Write fiction stories <br>
