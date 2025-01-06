@@ -1,33 +1,34 @@
-## About me
+# About me
 
-Hello, I'm Klaudia and I'm the one who docs! Both at work and in my private life. <br>
+Hello! I'm Klaudia – a documentation enthusiast always ready to improve your text and make it more readable! With 7+ years of experience in Technical Writing, I turn complex technical concepts into approachable guides for both open-source and commercial projects. 
 
-Professionally, I'm a documentation enthusiast experienced in writing both open-source and commercial docs, currently working as a Technical Writer at Travelping.
-
-In my free time, I try my best to write fiction.
-
+Feel free to connect or reach out if you’d like to discuss documentation, Technical Writing, or anything in between!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klaudia-grzondziel-75269a185/)](https://www.linkedin.com/in/klaudia-grzondziel-75269a185/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klaudia.grzondziel@gmail.com)](mailto:klaudia.grzondziel@gmail.com)
 
+## Highlights
+
+- **SAP:** Worked on both open-source and commercial documentation for the [Kyma project](https://kyma-project.io/#/).
+- **Travelping:** Currently creating documentation for a leading German networking company.
+- **Community contribution:** Actively improving posts on the [assembler programming language](https://github.com/0xAX/asm) to enhance accessibility and understanding.
+
 ## Tools & skills
 
-I use these tools on a daily basis:
-- GitHub
-- Markdown 
-- DITA CMS
-- Visual Studio Code
-- Confluence 
-- Jira
+Here are some of the tools and platforms I work with daily:
 
+- **Documentation tools:** Markdown, DITA CMS
+- **Version control:** GitHub, GitLab
+- **Collaboration platforms:** Confluence, Jira
+- **Editing & Development:** Visual Studio Code, Atom
 
 ## Hobbies 
 
-In my free time, I like to:
+When I’m not working on documentation, I’m usually exploring creative and personal passions like:
 
-:earth_asia: Travel the world <br>
-🧘‍♀️ Practice yoga <br>
-:jp: Learn languages <br>
-:books: Read books (mainly fantasy, but I read everything I get my hands on) <br>
-:pencil: Write fiction stories <br>
-:art: Paint (but only painting by numbers :joy: )
+🌍 Traveling – Discovering new cultures, cuisines, and perspectives <br>
+🧘‍♀️ Yoga – Staying grounded and mindful <br>
+🇯🇵 Learning languages – Currently focusing on Japanese and Russian! <br>
+📚 Reading – I’m strongly into fantasy, but I enjoy books of all genres <br>
+✏️ Writing fiction – Crafting stories is my creative escape <br>
+🎨 Painting – Relaxing with painting by numbers (art therapy at its finest!)
