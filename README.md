@@ -9,13 +9,13 @@ Feel free to connect or reach out if you’d like to discuss documentation, Tech
 
 ## Highlights
 
-- **SAP:** Worked on open-source and commercial documentation for the [Kyma project](https://kyma-project.io/#/).
-- **Travelping:** Currently creating documentation for the leading German networking company.
-- **Community contribution:** Actively improving posts on the [assembler programming language](https://github.com/0xAX/asm) to enhance accessibility and understanding.
+- **SAP:** Worked on open-source and commercial documentation for the [Kyma project](https://kyma-project.io/#/) (2018-2022)
+- **Travelping:** Currently creating documentation for the leading German networking company (2022-)
+- **Community contribution:** Actively improving posts on the [assembler programming language](https://github.com/0xAX/asm) to enhance accessibility and understanding (2024-)
 
 ## Tools & skills
 
-Here are some of the tools and platforms I work with daily:
+Here are some of the tools and platforms I work with:
 
 - **Documentation tools:** Markdown, DITA CMS
 - **Version control:** GitHub, GitLab
