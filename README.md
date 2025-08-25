@@ -21,6 +21,7 @@ Here are some of the tools and platforms I work with:
 - **Version control:** GitHub, GitLab
 - **Collaboration platforms:** Confluence, Jira
 - **Editing & Development:** Visual Studio Code, Atom
+- **Graphics:** diagrams.net (previously draw.io), Mermaid, Canva
 
 ## Hobbies 
 
