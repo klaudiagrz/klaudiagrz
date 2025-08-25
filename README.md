@@ -11,7 +11,9 @@ Feel free to connect or reach out if you’d like to discuss documentation, Tech
 
 - **SAP:** Worked on open-source and commercial documentation for the [Kyma project](https://kyma-project.io/#/) (2018-2022)
 - **Travelping:** Currently creating documentation for the leading German networking company (2022-)
-- **Community contribution:** Actively improving posts on the [assembler programming language](https://github.com/0xAX/asm) to enhance accessibility and understanding (2024-)
+- **Community contribution:**
+   - Improving posts on the [assembler programming language](https://github.com/0xAX/asm) to enhance readability and understanding (2024-2025)
+   - Improving readability of the [Linux insides](https://github.com/0xAX/linux-insides) (2025-)
 
 ## Tools & skills
 
