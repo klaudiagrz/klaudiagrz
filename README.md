@@ -28,7 +28,7 @@ When I’m not working on documentation, I’m usually exploring creative and pe
 
 🌍 Travelling the world <br>
 🧘‍♀️ Yoga and mindfulness <br>
-🇯🇵 Learning languages – currently focusing on Japanese and Russian! <br>
+🇯🇵 Learning languages – currently focusing on Japanese and Russian <br>
 📚 Reading – I’m strongly into fantasy, but I enjoy books of all genres <br>
 ✏️ Writing fiction <br>
 🎨 Painting – but only painting by numbers 😅
