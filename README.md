@@ -1,6 +1,7 @@
 # About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-Hello! I'm Klaudia – a documentation enthusiast ready to improve your text and make it more readable! With 7+ years of experience in Technical Writing, I turn complex technical concepts into approachable guides for both open-source and commercial projects. 
+Hi! I’m Klaudia — a Technical Writer who enjoys turning complex ideas into clear and readable documentation.
+7+ years of experience across open-source and commercial projects.
 
 Feel free to connect or reach out if you’d like to discuss documentation, Technical Writing, or anything in between!
 
