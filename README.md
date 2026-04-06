@@ -5,7 +5,6 @@ Hi! I’m Klaudia — a Technical Writer who enjoys turning complex ideas into c
 
 Now focused on experimenting with AI and LLMs to support technical documentation — including generating documentation guidelines, improving review workflows, and building product-aware assistants. Currently creating my space on `dev.to` to write about my experiences as a Technical Writer – a great way to blend my love for writing with my professional path.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klaudia-grzondziel-75269a185/)](https://www.linkedin.com/in/klaudia-grzondziel-75269a185/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klaudia.grzondziel@gmail.com)](mailto:klaudia.grzondziel@gmail.com)
 
 ## Highlights
