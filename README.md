@@ -22,7 +22,7 @@ Here are some of the tools and platforms I work with:
 - **Documentation tools:** Markdown, DITA CMS
 - **Version control:** GitHub, GitLab
 - **Collaboration platforms:** Confluence, Jira
-- **Editing & Development:** Visual Studio Code, Atom
+- **Editing & Development:** Visual Studio Code
 - **Graphics:** diagrams.net (previously draw.io), Mermaid, Canva
 
 ## Hobbies 
@@ -31,7 +31,7 @@ When I’m not working on documentation, I’m usually exploring creative and pe
 
 🌍 Travelling the world <br>
 🧘‍♀️ Yoga and mindfulness <br>
-🇯🇵 Learning languages – currently focusing on Japanese and Russian <br>
+🇯🇵 Learning languages – currently focusing on Russian and Japanese <br>
 📚 Reading – I’m strongly into fantasy, but I enjoy books of all genres <br>
 ✏️ Writing fiction <br>
 🎨 Painting – but only painting by numbers 😅
