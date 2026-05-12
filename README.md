@@ -14,6 +14,7 @@ Now focused on experimenting with AI and LLMs to support technical documentation
 - **Community contribution:**
    - Improving posts on the [assembler programming language](https://github.com/0xAX/asm) (2024-2025)
    - Improving readability of the [Linux insides](https://github.com/0xAX/linux-insides) (2025-)
+- Writing articles on [`dev.to`](https://dev.to/klaudiagrz)
 
 ## Tools & skills
 
