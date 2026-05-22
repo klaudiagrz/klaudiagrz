@@ -1,4 +1,4 @@
-# About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# About me
 
 Hi! I’m Klaudia — a Technical Writer who enjoys turning complex ideas into clear and readable documentation.
 7+ years of experience across open-source and commercial projects. I have a strong preference for tools that give more flexibility, like Markdown + GitHub/GitLab. Not a big fan of DITA CMS.
