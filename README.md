@@ -14,7 +14,8 @@ Now focused on experimenting with AI and LLMs to support technical documentation
 - **Community contribution:**
    - Improving posts on the [assembler programming language](https://github.com/0xAX/asm) (2024-2025)
    - Improving readability of the [Linux insides](https://github.com/0xAX/linux-insides) (2025-)
-- Writing articles on [`dev.to`](https://dev.to/klaudiagrz)
+- Writing articles on [`dev.to`](https://dev.to/klaudiagrz) (2026–)
+- Built [**Gdzie to wyrzucić?**](https://gdzie-wyrzucic.vercel.app/) — a Polish recycling assistant powered by Gemma 4 (2026)
 
 ## Tools & skills
 
@@ -25,6 +26,7 @@ Here are some of the tools and platforms I work with:
 - **Collaboration platforms:** Confluence, Jira
 - **Editing & Development:** Visual Studio Code
 - **Graphics:** diagrams.net (previously draw.io), Mermaid, Canva
+- **AI:** Claude Code, Gemini, Google AI Studio, Gemma 4, ChatGPT
 
 ## Hobbies 
 
